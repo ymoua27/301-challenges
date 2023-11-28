@@ -46,3 +46,8 @@ cat test.txt
 echo "My new string with date: `date`" >> test.txt
 echo "Appended file:"
 cat test.txt
+
+
+# Resources
+# https://chat.openai.com/share/f5daf446-9e7d-47f6-8ec5-c2f3c794dacc
+# https://github.com/codefellows/seattle-ops-301d14/blob/main/class-02/challenges/DEMO.md 
