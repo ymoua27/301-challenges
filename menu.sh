@@ -30,3 +30,7 @@ while true; do
         read -p "Press Enter to continue"
     fi
 done
+
+# Refrences
+# https://chat.openai.com/share/baf5941f-c1ea-487b-9afd-5cca53c7e18e
+# https://github.com/codefellows/seattle-ops-301d14/blob/main/class-04/challenges/DEMO.md
