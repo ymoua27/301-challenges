@@ -46,4 +46,6 @@ while True:
         
         
 # REF
+# https://peps.python.org/pep-0008/#function-and-variable-names
+# https://docs.python.org/3/library/subprocess.html#module-subprocess
 # https://chat.openai.com/share/baf5941f-c1ea-487b-9afd-5cca53c7e18e
