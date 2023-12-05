@@ -1,5 +1,5 @@
 # Author:    Yue Moua
-# Script:    Create script that execute BASH commands     
+# Script:    Create Python script that execute BASH commands     
 # Purpose:   Intro to Python
 
 # Variables
