@@ -29,3 +29,6 @@ elif 13 <= age < 20:
     print("The person is a teen")
 else:
     print("The person is an adult")
+    
+    # REF
+    # https://github.com/codefellows/seattle-ops-301d14/tree/main/class-07
